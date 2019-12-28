@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c3959c29-ba8f-455f-81b0-39312391cb40" name="Default Changelist" comment="" />
+    <list default="true" id="c3959c29-ba8f-455f-81b0-39312391cb40" name="Default Changelist" comment="第一回コミット">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -105,18 +107,38 @@
       <workItem from="1577378541884" duration="29000" />
       <workItem from="1577378623627" duration="81000" />
       <workItem from="1577516620201" duration="50000" />
-      <workItem from="1577516851972" duration="5042000" />
+      <workItem from="1577516851972" duration="5684000" />
     </task>
+    <task id="LOCAL-00001" summary="第一回コミット">
+      <created>1577530333339</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1577530333340</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="第一回コミット" />
+    <option name="LAST_COMMIT_MESSAGE" value="第一回コミット" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="385" y="9" width="998" height="806" key="CommitChangelistDialog2" timestamp="1577530165892">
+    <state x="361" y="74" key="#Notifications" timestamp="1577530625989">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="385" y="9" width="998" height="806" key="CommitChangelistDialog2/0.0.1536.824/1920.-454.1920.1040@0.0.1536.824" timestamp="1577530165892" />
+    <state x="361" y="74" key="#Notifications/0.0.1536.824/1920.-454.1920.1040@0.0.1536.824" timestamp="1577530625989" />
+    <state x="385" y="9" width="998" height="806" key="CommitChangelistDialog2" timestamp="1577530661994">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="385" y="9" width="998" height="806" key="CommitChangelistDialog2/0.0.1536.824/1920.-454.1920.1040@0.0.1536.824" timestamp="1577530661994" />
+    <state x="93" y="93" width="1350" height="638" key="DiffContextDialog" timestamp="1577530628778">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="93" y="93" width="1350" height="638" key="DiffContextDialog/0.0.1536.824/1920.-454.1920.1040@0.0.1536.824" timestamp="1577530628778" />
     <state x="490" y="145" key="FileChooserDialogImpl" timestamp="1577530254739">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -145,10 +167,18 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="272" y="58" key="SettingsEditor/0.0.1536.824/1920.-454.1920.1040@0.0.1536.824" timestamp="1577523738333" />
-    <state x="461" y="241" key="com.intellij.ide.util.TipDialog" timestamp="1577516854761">
+    <state x="243" y="147" key="Vcs.Push.Dialog.v2" timestamp="1577530717134">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="461" y="241" key="com.intellij.ide.util.TipDialog/0.0.1536.824/1920.-454.1920.1040@0.0.1536.824" timestamp="1577516854761" />
+    <state x="243" y="147" key="Vcs.Push.Dialog.v2/0.0.1536.824/1920.-454.1920.1040@0.0.1536.824" timestamp="1577530717134" />
+    <state x="93" y="93" width="1350" height="638" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1577530628778">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="93" y="93" width="1350" height="638" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.0.1536.824/1920.-454.1920.1040@0.0.1536.824" timestamp="1577530628778" />
+    <state x="461" y="241" key="com.intellij.ide.util.TipDialog" timestamp="1577536548518">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="461" y="241" key="com.intellij.ide.util.TipDialog/0.0.1536.824/1920.-454.1920.1040@0.0.1536.824" timestamp="1577536548518" />
     <state x="560" y="215" key="git4idea.merge.GitMergeDialog" timestamp="1577530217670">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
